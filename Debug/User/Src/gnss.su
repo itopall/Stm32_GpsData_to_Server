@@ -1,0 +1,8 @@
+C:/Users/ilker/Desktop/STM32_Tutorial/gps_to_pc/CMSIS/Include/core_cm4.h:1547:22:NVIC_EnableIRQ	16	static
+C:/Users/ilker/Desktop/STM32_Tutorial/gps_to_pc/CMSIS/Include/core_cm4.h:1629:22:NVIC_SetPriority	16	static
+../User/Src/gnss.c:30:6:USART6_IRQHandler	16	static
+../User/Src/gnss.c:43:6:GNSS_Init	8	static
+../User/Src/gnss.c:60:15:hex2bin	24	static
+../User/Src/gnss.c:72:5:NMEA_Check	32	static
+../User/Src/gnss.c:98:7:NMEA_Token	32	static
+../User/Src/gnss.c:133:6:Task_GNSS	8	static

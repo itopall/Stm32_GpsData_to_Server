@@ -1,0 +1,6 @@
+../User/Src/uart.c:46:6:UART_Init	48	static
+../User/Src/uart.c:89:6:UART_Send	16	static
+../User/Src/uart.c:97:15:UART_Recv	16	static
+../User/Src/uart.c:117:6:UART_putch	16	static
+../User/Src/uart.c:125:5:UART_puts	24	static
+../User/Src/uart.c:135:5:UART_printf	272	static

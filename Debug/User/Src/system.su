@@ -1,0 +1,6 @@
+C:/Users/ilker/Desktop/STM32_Tutorial/gps_to_pc/CMSIS/Include/core_cm4.h:1629:22:NVIC_SetPriority	16	static
+C:/Users/ilker/Desktop/STM32_Tutorial/gps_to_pc/CMSIS/Include/core_cm4.h:1760:26:SysTick_Config	16	static
+../User/Src/system.c:30:6:Sys_IoInit	16	static
+../User/Src/system.c:38:6:Sys_ClockTick	4	static
+../User/Src/system.c:43:6:Sys_ClockInit	8	static
+../User/Src/system.c:48:9:clock	4	static

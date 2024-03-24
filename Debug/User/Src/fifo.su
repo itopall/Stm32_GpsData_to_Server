@@ -1,0 +1,7 @@
+../User/Src/fifo.c:10:6:FIFO_Clear	16	static
+../User/Src/fifo.c:19:6:FIFO_Init	24	static
+../User/Src/fifo.c:29:5:FIFO_IsEmpty	16	static
+../User/Src/fifo.c:36:5:FIFO_IsFull	16	static
+../User/Src/fifo.c:44:5:FIFO_SetData	24	static
+../User/Src/fifo.c:68:15:FIFO_GetData	24	static
+../User/Src/fifo.c:94:5:FIFO_GetLine	24	static

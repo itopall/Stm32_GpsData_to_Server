@@ -1,0 +1,6 @@
+C:/Users/ilker/Desktop/STM32_Tutorial/gps_to_pc/CMSIS/Include/core_cm4.h:1547:22:NVIC_EnableIRQ	16	static
+C:/Users/ilker/Desktop/STM32_Tutorial/gps_to_pc/CMSIS/Include/core_cm4.h:1629:22:NVIC_SetPriority	16	static
+../User/Src/iuart.c:27:6:IUART_Init	8	static
+../User/Src/iuart.c:48:6:USART2_IRQHandler	16	static
+../User/Src/iuart.c:75:6:IUART_SendData	24	static
+../User/Src/iuart.c:88:6:Task_IUART	528	static
